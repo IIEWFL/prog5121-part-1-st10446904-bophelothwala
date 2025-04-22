@@ -134,6 +134,21 @@ Measures have been placed to ensure the user cannot skip any login steps such as
 
  
 
+Check Users 
+
+ 
+
+Has been added to ensure the user’s information you have registered is stored. 
+
+ 
+
+ 
+
+Codes of the chat app poe part 1 in java is available at: 
+
+https://github.com/IIEWFL/prog5121-part-1-st10446904-bophelothwala.git 
+
+ 
  
 
 Codes of the chat app poe part 1 in java is available at: 
